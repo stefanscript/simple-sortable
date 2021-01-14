@@ -6,7 +6,7 @@ function SimpleSortable(newOrderHandler) {
         let selectorItems = ".simple-sortable li";
         const list = document.querySelectorAll(selectorItems);
         list.forEach((item) => {
-            
+            item.setAttribute("draggable", true);
             item.addEventListener("dragstart", (e) => {
                 dragged = e.target;
                 draggedY = dragged.getBoundingClientRect().y;

@@ -1,12 +1,13 @@
 {
-  "name": "vanilla-sortable",
+  "name": "simple-sortable",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple sorting library",
   "main": "dist/SimpleSortable.js",
   "scripts": {
+    "start": "parcel index.html",
     "build": "parcel ./src/SimpleSortable.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
