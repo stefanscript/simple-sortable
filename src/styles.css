@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+ul {
+    list-style: none;
+    width: 300px;
+}
+ul li {
+    padding: 4px 10px;
+    background-color: #eee;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.a2b27638.css","sourceRoot":"..","sourcesContent":["body {\n    font-family: sans-serif;\n}\nul {\n    list-style: none;\n    width: 300px;\n}\nul li {\n    padding: 4px 10px;\n    background-color: #eee;\n    margin-bottom: 5px;\n}\n"]}
