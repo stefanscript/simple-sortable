@@ -1,6 +1,6 @@
 # simple-sortable
 
-Simple vanilla sortable library, zero dependencies.
+Vanilla sortable library with zero dependencies.
 
 #### Start with a simple list with each element having it's own data id
 
