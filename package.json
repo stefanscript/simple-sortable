@@ -1,5 +1,5 @@
 {
-  "name": "simple-sortable",
+  "name": "@stefanscript/simple-sortable",
   "version": "1.0.1",
   "description": "Simple sorting library",
   "main": "dist/SimpleSortable.js",
@@ -7,7 +7,16 @@
     "start": "parcel index.html",
     "build": "parcel ./src/SimpleSortable.js"
   },
+  "files": ["dist"],
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "author": "stefanscript",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanscript/simple-sortable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanscript/simple-sortable/issues"
+  },
+  "homepage": "https://github.com/stefanscript/simple-sortable#readme"
 }
