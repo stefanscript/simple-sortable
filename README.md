@@ -14,3 +14,9 @@ Simple vanilla sortable library, zero dependencies.
 #### Init the library
        
       SimpleSortable(handler)
+      
+##### handler will receive the new order
+
+      SimpleSortable(function(newOrder){
+            console.log(newOrder);
+      })
