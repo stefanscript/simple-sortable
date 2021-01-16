@@ -5,9 +5,9 @@
   "main": "dist/SimpleSortable.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel ./src/SimpleSortable.js"
+    "build": "parcel build ./src/SimpleSortable.js -d lib"
   },
-  "files": ["dist"],
+  "files": ["lib"],
   "keywords": [],
   "author": "stefanscript",
   "license": "MIT",
